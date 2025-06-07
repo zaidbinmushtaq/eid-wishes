@@ -2,17 +2,19 @@
   <img src="banner.jpg" alt="Eid Mubarak in Every Language" />
 </p>
 
-# Eid Mubarak in Every Language
+# 🌙 Eid Mubarak in Every Language
 
-Welcome to the **Eid Mubarak in Every Language** repository - a celebration of unity, love, and global brotherhood.
+Welcome to the **Eid Mubarak in Every Language** repository—celebrating the universal message of unity, generosity, and joy during the festivals of **Eid al-Fitr** and **Eid al-Adha (Bakr Eid)**.
 
-Eid is not just a festival. It is a moment that connects hearts across borders, cultures, and tongues. Through this project, we share how people around the world say:
+Eid festivals symbolize compassion, gratitude, sacrifice, and unity, transcending cultural and geographical boundaries. Through this repository, we highlight the beautiful diversity of how people around the world express these heartfelt wishes.
 
-**Eid Mubarak in Every Language**
+Whether it's marking the end of Ramadan (Eid al-Fitr) or commemorating Prophet Ibrahim’s devotion and sacrifice (Eid al-Adha), these celebrations bring together hearts and communities worldwide.
 
-From bustling cities to quiet villages, across continents and oceans, these words carry prayers of peace, joy, and togetherness.
+---
 
-## Wishes Around the World
+## 🌍 Eid Wishes Around the Globe
+
+Explore how people across the globe say "Eid Mubarak":
 
 | Language             | Eid Wish                                |
 |----------------------|-----------------------------------------|
@@ -38,12 +40,12 @@ From bustling cities to quiet villages, across continents and oceans, these word
 | Persian              | عید مبارک                               |
 | Pashto               | د اختر مبارکي                          |
 | Kurdish              | Cejna we pîroz be                       |
-| Azerbaijani          | Bayramınız mübarək                     |
-| Kazakh               | Ораза айт мейрамы құтты болсын         |
-| Uzbek                | Hayit bayramingiz muborak bo‘lsin      |
+| Azerbaijani          | Bayramınız mübarək                      |
+| Kazakh               | Ораза айт мейрамы құтты болсын          |
+| Uzbek                | Hayit bayramingiz muborak bo‘lsin       |
 | Russian              | Ид мубарак                              |
 | Ukrainian            | Ід мубарак                              |
-| Bosnian              | Bajram Šerif Mubarek Olsun             |
+| Bosnian              | Bajram Šerif Mubarek Olsun              |
 | Albanian             | Gëzuar Bajramin                         |
 | German               | Gesegnetes Eid                          |
 | Spanish              | Feliz Eid                               |
@@ -53,9 +55,9 @@ From bustling cities to quiet villages, across continents and oceans, these word
 | Romanian             | Sărbătoare fericită de Eid              |
 | Chinese (Simplified) | 开斋节快乐                               |
 | Chinese (Traditional)| 開齋節快樂                               |
-| Japanese             | イード・ムバーラク                     |
-| Korean               | 이드 무바라크                           |
-| Thai                 | อีฎมูบารัก                              |
+| Japanese             | イード・ムバーラク                      |
+| Korean               | 이드 무바라크                            |
+| Thai                 | อีฎมูบารัก                               |
 | Vietnamese           | Chúc mừng Eid                           |
 | Filipino             | Maligayang Eid                          |
 | Mongolian            | Ид мубарак                              |
@@ -63,10 +65,22 @@ From bustling cities to quiet villages, across continents and oceans, these word
 | Hebrew               | עיד מובארכ                              |
 | English              | Eid Mubarak                             |
 
-## Our Message
+---
 
-> **Eid Mubarak**  
-> May your Eid be filled with peace, warmth, and joy.  
-> May this celebration remind us that, beyond all differences, our hearts beat with the same hopes.
+## ✨ Celebrating Eid al-Fitr & Eid al-Adha
 
-With love...
+**Eid al-Fitr** marks the end of the holy month of Ramadan, celebrated by communal prayers, feasting, and giving to the needy.
+
+**Eid al-Adha (Bakr Eid)** commemorates Prophet Ibrahim’s willingness to sacrifice his son, emphasizing generosity, charity, and sharing meat with the less fortunate.
+
+Both festivals strengthen bonds of compassion, gratitude, and togetherness across communities globally.
+
+---
+
+## 🌟 Our Message to You
+
+> **Eid Mubarak!**  
+> May these blessed occasions fill your hearts with joy, your homes with peace, and your communities with harmony.
+> Let’s celebrate our diversity and cherish the bonds that unite us.
+
+**Wishing you peace and joy, wherever you are in the world.**
