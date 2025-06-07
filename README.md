@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="Eid Mubarak in Every Language" />
+  <img src="banner.png" alt="Eid Mubarak in Every Language" />
 </p>
 
 # 🌙 Eid Mubarak in Every Language
